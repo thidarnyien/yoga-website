@@ -1,0 +1,10 @@
+/* variable */
+/* @import url('partial/variable.css'); */
+@import 'partial/variable.css';
+@import 'partial/global.css';
+@import 'partial/common.css';
+@import 'partial/header.css';
+@import url('partial/slideshow.css');
+@import url('partial/card.css');
+@import url('partial/product.css');
+@import url('partial/footer.css');

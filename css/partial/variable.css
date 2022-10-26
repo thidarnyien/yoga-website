@@ -1,0 +1,20 @@
+:root{
+    /* color */
+    --primary-color: #f25c5c;
+    --secondary-color: #333333;
+    --body-color: #5f5f5f;
+    --bg-color: #fff;
+    --bg-secondary-color: #d9d9d9;
+
+    /* font */
+    --primary-font: 'Lato';
+    --secondary-font:'Roboto';
+
+     /* size */
+     --primary-fz:35px;
+     --secondary-fz: 13px;
+
+     /* height */
+     --line-height: 1.5em;
+     
+}

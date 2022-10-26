@@ -1,0 +1,18 @@
+.footer{
+    background-color: var(--secondary-color);
+    
+}
+.footer-text{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.footer p{
+    color: white;
+    padding: 20px 0;
+}
+@media(max-width:900px){
+    .footer-text{
+        flex: 1 1 100%;
+    }
+}

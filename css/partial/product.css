@@ -1,0 +1,21 @@
+.products{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.product img:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.product p{
+    font-weight: 600;
+}
+@media(max-width: 900px){
+    .product{
+        flex: 1 1 44%;
+    }
+}
+@media(max-width: 700px){
+    .product{
+        flex: 1 1 100%;
+    }
+}
